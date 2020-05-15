@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Diana\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Diana\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Diana\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Diana\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ContestApplication.2018562350.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication" t="IncludeFlat">
+      <e p="ContestApplication.sln" t="IncludeFlat" />
+      <e p="Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Core.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="ContestTask.cs" t="Include" />
+          <e p="Distance.cs" t="Include" />
+          <e p="Entry.cs" t="Include" />
+          <e p="IEntity.cs" t="Include" />
+          <e p="Participant.cs" t="Include" />
+          <e p="Style.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data.csproj" t="IncludeRecursive" />
+        <e p="DataContext.cs" t="Include" />
+        <e p="DataContexts" t="Include">
+          <e p="Implementations" t="Include">
+            <e p="ContestTaskDataContext.cs" t="Include" />
+            <e p="EntityDataContext.cs" t="Include" />
+            <e p="EntryDataContext.cs" t="Include" />
+            <e p="ParticipantDataContext.cs" t="Include" />
+            <e p="UserDataContext.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IContestTaskDataContext.cs" t="Include" />
+            <e p="IDataContext.cs" t="Include" />
+            <e p="IDbDataContext.cs" t="Include" />
+            <e p="IEntityDataContext.cs" t="Include" />
+            <e p="IEntryDataContext.cs" t="Include" />
+            <e p="IParticipantDataContext.cs" t="Include" />
+            <e p="IUserDataContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="IDbDataContext.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="Implementations" t="Include">
+            <e p="ContestTaskRepository.cs" t="Include" />
+            <e p="EntryRepository.cs" t="Include" />
+            <e p="ParticipantRepository.cs" t="Include" />
+            <e p="UserRepository.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IContestTaskRepository.cs" t="Include" />
+            <e p="IEntryRepository.cs" t="Include" />
+            <e p="IParticipantRepository.cs" t="Include" />
+            <e p="IRepository.cs" t="Include" />
+            <e p="IUserRepository.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Networking" t="IncludeRecursive">
+        <e p="appsetings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DependencyInjector.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="Implementations" t="Include">
+            <e p="AddEntryHandler.cs" t="Include" />
+            <e p="AddParticipantHandler.cs" t="Include" />
+            <e p="LoginHandler.cs" t="Include" />
+            <e p="SearchContestTasksHandler.cs" t="Include" />
+            <e p="SearchParticipantsHandler.cs" t="Include" />
+            <e p="SearchParticipantsJoinHandler.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IAddEntryHandler.cs" t="Include" />
+            <e p="IAddParticipantHandler.cs" t="Include" />
+            <e p="ILoginHandler.cs" t="Include" />
+            <e p="ISearchContestTasksHandler.cs" t="Include" />
+            <e p="ISearchParticipantsHandler.cs" t="Include" />
+            <e p="ISearchParticipantsJoinHandler.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Network" t="Include">
+          <e p="Client.cs" t="Include" />
+          <e p="Observer.cs" t="Include" />
+          <e p="RequestDelayer.cs" t="Include" />
+          <e p="RequestParser.cs" t="Include" />
+          <e p="Server.cs" t="Include" />
+        </e>
+        <e p="Networking.csproj" t="IncludeRecursive" />
+        <e p="NetworkModels" t="Include">
+          <e p="Request.cs" t="Include" />
+          <e p="RequestContentType.cs" t="Include" />
+          <e p="RequestType.cs" t="Include" />
+          <e p="Response.cs" t="Include" />
+          <e p="ResponseStatus.cs" t="Include" />
+        </e>
+        <e p="NLog.config" t="Include" />
+        <e p="NLog.xsd" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="Implementations" t="Include">
+            <e p="ContestTaskService.cs" t="Include" />
+            <e p="EntryService.cs" t="Include" />
+            <e p="ParticipantService.cs" t="Include" />
+            <e p="UserService.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IContestTaskService.cs" t="Include" />
+            <e p="IEntryService.cs" t="Include" />
+            <e p="IParticipantService.cs" t="Include" />
+            <e p="IUserService.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Presentation" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ContestViewForm.cs" t="Include" />
+        <e p="ContestViewForm.Designer.cs" t="Include" />
+        <e p="ContestViewForm.resx" t="Include" />
+        <e p="DependencyInjector.cs" t="Include" />
+        <e p="LoginForm.cs" t="Include" />
+        <e p="LoginForm.Designer.cs" t="Include" />
+        <e p="LoginForm.resx" t="Include" />
+        <e p="NLog.config" t="Include" />
+        <e p="NLog.xsd" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Presentation.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,158 @@
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\NLog.xsd
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\NLog.config
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Presentation.exe
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Autofac.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Core.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Networking.exe
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\NLog.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\NLog.Extensions.Logging.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Buffers.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Memory.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Text.Json.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.ValueTuple.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Data.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Core.pdb
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Networking.pdb
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Networking.exe.config
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Autofac.pdb
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Autofac.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\NLog.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\NLog.Extensions.Logging.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Buffers.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Memory.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Text.Json.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\System.ValueTuple.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\Data.pdb
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\obj\Debug\Presentation.exe.config
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\obj\Debug\Presentation.ContestViewForm.resources
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\obj\Debug\Presentation.LoginForm.resources
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\obj\Debug\Presentation.exe
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Presentation\bin\Debug\appsetings.json
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\NLog.xsd
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\NLog.config
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\appsetings.json
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Presentation.exe
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Autofac.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Core.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Networking.exe
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\NLog.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\NLog.Extensions.Logging.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Buffers.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Memory.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Text.Json.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.ValueTuple.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Data.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Core.pdb
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Networking.pdb
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Networking.exe.config
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Autofac.pdb
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Autofac.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\NLog.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\NLog.Extensions.Logging.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Buffers.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Memory.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Text.Json.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\System.ValueTuple.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\bin\Debug\Data.pdb
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\obj\Debug\Presentation.exe.config
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\obj\Debug\Presentation.ContestViewForm.resources
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\obj\Debug\Presentation.LoginForm.resources
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\obj\Debug\Presentation.exe
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Presentation\obj\Debug\Presentation.pdb

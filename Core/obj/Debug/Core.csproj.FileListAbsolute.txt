@@ -1,0 +1,12 @@
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Core\bin\Debug\Core.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Core\bin\Debug\Core.pdb
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Core\obj\Debug\Core.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Core\obj\Debug\Core.pdb
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Core\bin\Debug\Core.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Core\bin\Debug\Core.pdb
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Core\obj\Debug\Core.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Core\obj\Debug\Core.pdb

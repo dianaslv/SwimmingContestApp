@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "Contest": "Persist Security Info=False;Integrated Security=true;Initial Catalog=SwimmingContest;Server=DESKTOP-OUKM7GS"
+  }
+}

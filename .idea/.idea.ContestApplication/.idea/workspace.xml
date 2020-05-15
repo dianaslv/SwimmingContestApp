@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9502e31-9582-4c95-932d-17ae4e1bd221" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Data/DataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/IDbDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Repositories/Implementations/EntryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Repositories/Interfaces/IContestTaskRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Repositories/Interfaces/IParticipantRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Repositories/Interfaces/IEntryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Repositories/Interfaces/IUserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Repositories/Interfaces/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Implementations/EntityDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Implementations/ContestTaskDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Implementations/EntryDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Implementations/UserDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Models/ContestTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Models/Participant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Network/RequestDelayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Network/RequestParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Implementations/ParticipantDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Interfaces/IUserDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Network/Server.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Network/Observer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Interfaces/IDbDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Models/Entry.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Network/Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Models/IEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Models/Distance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Interfaces/ILoginHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Models/Style.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Interfaces/IAddEntryHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Interfaces/ISearchParticipantsJoinHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Interfaces/ISearchParticipantsHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Interfaces/IAddParticipantHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Interfaces/ISearchContestTasksHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Implementations/AddParticipantHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Implementations/LoginHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Implementations/AddEntryHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Implementations/SearchParticipantsJoinHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContestApplication/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Implementations/SearchParticipantsHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Handlers/Implementations/SearchContestTasksHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Services/Interfaces/IParticipantService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Services/Interfaces/IUserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Services/Interfaces/IEntryService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Services/Interfaces/IContestTaskService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Services/Implementations/ParticipantService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Services/Implementations/ContestTaskService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Services/Implementations/UserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Services/Implementations/EntryService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/NetworkModels/Request.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/NetworkModels/Response.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/NetworkModels/ResponseStatus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/NetworkModels/RequestContentType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/NetworkModels/RequestType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/ContestViewForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/LoginForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/DependencyInjector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Interfaces/IContestTaskDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Interfaces/IEntryDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/LoginForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Interfaces/IDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/ContestViewForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/NLog.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Interfaces/IParticipantDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/NLog.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/DataContexts/Interfaces/IEntityDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Networking/appsetings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/DependencyInjector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Repositories/Implementations/ContestTaskRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Repositories/Implementations/ParticipantRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Repositories/Implementations/UserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Networking/Network/RequestDelayer.cs" />
+        <option value="$PROJECT_DIR$/Networking/Network/RequestParser.cs" />
+        <option value="$PROJECT_DIR$/Networking/Services/Interfaces/IUserService.cs" />
+        <option value="$PROJECT_DIR$/Data/Repositories/Interfaces/IContestTaskRepository.cs" />
+        <option value="$PROJECT_DIR$/Data/Repositories/Interfaces/IEntryRepository.cs" />
+        <option value="$PROJECT_DIR$/Data/Repositories/Interfaces/IUserRepository.cs" />
+        <option value="$PROJECT_DIR$/Networking/Services/Implementations/UserService.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Implementations/LoginHandler.cs" />
+        <option value="$PROJECT_DIR$/Networking/Services/Interfaces/IEntryService.cs" />
+        <option value="$PROJECT_DIR$/Networking/Services/Interfaces/IContestTaskService.cs" />
+        <option value="$PROJECT_DIR$/Presentation/DependencyInjector.cs" />
+        <option value="$PROJECT_DIR$/Presentation/LoginForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/Networking/NLog.xsd" />
+        <option value="$PROJECT_DIR$/Networking/NLog.config" />
+        <option value="$PROJECT_DIR$/Presentation/Presentation.csproj" />
+        <option value="$PROJECT_DIR$/Data/DataContext.cs" />
+        <option value="$PROJECT_DIR$/Networking/appsetings.json" />
+        <option value="$PROJECT_DIR$/Networking/Networking.csproj" />
+        <option value="$PROJECT_DIR$/Presentation/LoginForm.cs" />
+        <option value="$PROJECT_DIR$/Data/DataContexts/Implementations/UserDataContext.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Interfaces/ISearchContestTasksHandler.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Implementations/SearchContestTasksHandler.cs" />
+        <option value="$PROJECT_DIR$/Data/DataContexts/Implementations/ContestTaskDataContext.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Implementations/AddParticipantHandler.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Implementations/AddEntry.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Interfaces/IAddEntry.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Interfaces/IAddEntryHandler.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Implementations/AddEntryHandler.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Interfaces/ISearchParticipantsHandler.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Implementations/SearchParticipantsHandler.cs" />
+        <option value="$PROJECT_DIR$/Networking/Network/Observer.cs" />
+        <option value="$PROJECT_DIR$/Data/Repositories/Interfaces/IParticipantRepository.cs" />
+        <option value="$PROJECT_DIR$/Data/Repositories/Implementations/ParticipantRepository.cs" />
+        <option value="$PROJECT_DIR$/Data/DataContexts/Interfaces/IParticipantDataContext.cs" />
+        <option value="$PROJECT_DIR$/Networking/Services/Interfaces/IParticipantService.cs" />
+        <option value="$PROJECT_DIR$/Networking/Services/Implementations/ParticipantService.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Implementations/SearchParticipantsJoin.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Interfaces/ISearchParticipantsJoin.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Interfaces/ISearchParticipantsJoinHandler.cs" />
+        <option value="$PROJECT_DIR$/Networking/NetworkModels/RequestType.cs" />
+        <option value="$PROJECT_DIR$/Networking/DependencyInjector.cs" />
+        <option value="$PROJECT_DIR$/Networking/Handlers/Implementations/SearchParticipantsJoinHandler.cs" />
+        <option value="$PROJECT_DIR$/Presentation/ContestViewForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/Data/DataContexts/Implementations/ParticipantDataContext.cs" />
+        <option value="$PROJECT_DIR$/Networking/Network/Client.cs" />
+        <option value="$PROJECT_DIR$/Networking/Services/Implementations/ContestTaskService.cs" />
+        <option value="$PROJECT_DIR$/Networking/Services/Implementations/EntryService.cs" />
+        <option value="$PROJECT_DIR$/Presentation/ContestViewForm.cs" />
+        <option value="$PROJECT_DIR$/Presentation/Program.cs" />
+        <option value="$PROJECT_DIR$/Networking/Network/Server.cs" />
+        <option value="$PROJECT_DIR$/Networking/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aUBTkkilgBTfnFfym4Q6E5lNkl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Networking">
+    <configuration name="ContestApplication" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ContestApplication/ContestApplication.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Networking" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Networking/Networking.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Presentation" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Presentation/Presentation.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.Presentation" />
+        <item itemvalue=".NET Project.Networking" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9502e31-9582-4c95-932d-17ae4e1bd221" name="Default Changelist" comment="" />
+      <created>1586780301813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586780301813</updated>
+      <workItem from="1586780303376" duration="848000" />
+      <workItem from="1586781183556" duration="14511000" />
+      <workItem from="1586803029516" duration="40000" />
+      <workItem from="1586803110822" duration="5499000" />
+      <workItem from="1586813393280" duration="9184000" />
+      <workItem from="1586822604738" duration="6225000" />
+      <workItem from="1588858260113" duration="617000" />
+      <workItem from="1588859593949" duration="3927000" />
+      <workItem from="1589481008826" duration="1537000" />
+      <workItem from="1589502806685" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="233" y="4" key="#Inspection_severity" timestamp="1586797529608">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="233" y="4" key="#Inspection_severity/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586797529608" />
+    <state width="1663" height="86" key="GridCell.Tab.0.bottom" timestamp="1589502881675">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1877" height="43" key="GridCell.Tab.0.bottom/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122425" />
+    <state width="1877" height="43" key="GridCell.Tab.0.bottom/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586850308027" />
+    <state width="1663" height="86" key="GridCell.Tab.0.bottom/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1589502881675" />
+    <state width="1877" height="86" key="GridCell.Tab.0.bottom/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1588859734848" />
+    <state width="1663" height="86" key="GridCell.Tab.0.center" timestamp="1589502881675">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1877" height="43" key="GridCell.Tab.0.center/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122425" />
+    <state width="1877" height="43" key="GridCell.Tab.0.center/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586850308027" />
+    <state width="1663" height="86" key="GridCell.Tab.0.center/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1589502881675" />
+    <state width="1877" height="86" key="GridCell.Tab.0.center/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1588859734848" />
+    <state width="1663" height="86" key="GridCell.Tab.0.left" timestamp="1589502881675">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1877" height="43" key="GridCell.Tab.0.left/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122425" />
+    <state width="1877" height="43" key="GridCell.Tab.0.left/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586850308027" />
+    <state width="1663" height="86" key="GridCell.Tab.0.left/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1589502881675" />
+    <state width="1877" height="86" key="GridCell.Tab.0.left/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1588859734847" />
+    <state width="1663" height="86" key="GridCell.Tab.0.right" timestamp="1589502881675">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state width="1877" height="43" key="GridCell.Tab.0.right/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122425" />
+    <state width="1877" height="43" key="GridCell.Tab.0.right/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586850308027" />
+    <state width="1663" height="86" key="GridCell.Tab.0.right/0.0.1707.929/2560.113.1920.1050@0.0.1707.929" timestamp="1589502881675" />
+    <state width="1877" height="86" key="GridCell.Tab.0.right/0.0.1707.929/2560.113.1920.1050@2560.113.1920.1050" timestamp="1588859734848" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1586869122363">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122363" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1586869122363">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122363" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1586869122363">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122363" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1586869122363">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122363" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom" timestamp="1586869122366">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122366" />
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.2.center" timestamp="1586869122364">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.center/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122364" />
+    <state width="1877" height="352" key="GridCell.Tab.2.center/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.2.left" timestamp="1586869122364">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.left/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122364" />
+    <state width="1877" height="352" key="GridCell.Tab.2.left/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.2.right" timestamp="1586869122365">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.right/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122365" />
+    <state width="1877" height="352" key="GridCell.Tab.2.right/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.3.bottom" timestamp="1586869122368">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.bottom/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122368" />
+    <state width="1877" height="352" key="GridCell.Tab.3.bottom/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.3.center" timestamp="1586869122367">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.center/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122367" />
+    <state width="1877" height="352" key="GridCell.Tab.3.center/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.3.left" timestamp="1586869122367">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.left/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122367" />
+    <state width="1877" height="352" key="GridCell.Tab.3.left/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.3.right" timestamp="1586869122368">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.right/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122368" />
+    <state width="1877" height="352" key="GridCell.Tab.3.right/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.4.bottom" timestamp="1586869122371">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.4.bottom/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122371" />
+    <state width="1877" height="352" key="GridCell.Tab.4.bottom/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267562" />
+    <state width="1877" height="352" key="GridCell.Tab.4.center" timestamp="1586869122370">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.4.center/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122370" />
+    <state width="1877" height="352" key="GridCell.Tab.4.center/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267562" />
+    <state width="1877" height="352" key="GridCell.Tab.4.left" timestamp="1586869122369">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.4.left/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122369" />
+    <state width="1877" height="352" key="GridCell.Tab.4.left/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267561" />
+    <state width="1877" height="352" key="GridCell.Tab.4.right" timestamp="1586869122371">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.4.right/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586869122371" />
+    <state width="1877" height="352" key="GridCell.Tab.4.right/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586823267562" />
+    <state x="233" y="77" key="Rider.ProjectTemplateDialog.Size" timestamp="1586781350994">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="233" y="77" key="Rider.ProjectTemplateDialog.Size/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586781350994" />
+    <state x="325" y="35" key="RiderGenerateDialog" timestamp="1586800083293">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="325" y="35" key="RiderGenerateDialog/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586800083293" />
+    <state x="99" y="0" width="998" height="690" key="SettingsEditor" timestamp="1586803546649">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="99" y="0" width="998" height="690" key="SettingsEditor/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586803546649" />
+    <state x="93" y="93" width="1093" height="503" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586792008103">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="93" y="93" width="1093" height="503" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.690/2560.113.1920.1050@0.0.1280.690" timestamp="1586792008103" />
+    <state x="152" y="38" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1586803546030">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="152" y="38" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586803546030" />
+    <state x="3176" y="299" key="run.anything.popup" timestamp="1586821272978">
+      <screen x="2560" y="113" width="1920" height="1050" />
+    </state>
+    <state x="3176" y="299" key="run.anything.popup/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586821272978" />
+    <state x="3183" y="340" key="search.everywhere.popup" timestamp="1586810726862">
+      <screen x="2560" y="113" width="1920" height="1050" />
+    </state>
+    <state x="3183" y="340" key="search.everywhere.popup/0.0.1280.690/2560.113.1920.1050@2560.113.1920.1050" timestamp="1586810726862" />
+  </component>
+</project>

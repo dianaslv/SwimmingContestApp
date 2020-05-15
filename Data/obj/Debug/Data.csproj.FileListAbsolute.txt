@@ -1,0 +1,54 @@
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Data.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Data.pdb
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Core.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\System.Buffers.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\System.Memory.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Core.pdb
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\System.Buffers.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\System.Memory.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\obj\Debug\Data.dll
+C:\Users\Diana\Desktop\ContestApplication\ContestApplication\Data\obj\Debug\Data.pdb
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Data.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Data.pdb
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Core.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\System.Buffers.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\System.Memory.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Core.pdb
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\System.Buffers.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\System.Memory.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\obj\Debug\Data.dll
+C:\Users\Diana\Desktop\ContestApplication - Remoting\ContestApplication\Data\obj\Debug\Data.pdb
